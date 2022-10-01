@@ -42,7 +42,5 @@ Then run the following commands to run your app:
 
 **Client**: Flutter, Provider
     
-## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
